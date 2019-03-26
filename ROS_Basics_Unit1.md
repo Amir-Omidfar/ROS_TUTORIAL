@@ -1,5 +1,5 @@
 # ROS Beginner Tutorial
-## Chapter 1
+## Unit 1
 
 *Here I try to collect the useful ROS commands from the course I am taking right now*
 
