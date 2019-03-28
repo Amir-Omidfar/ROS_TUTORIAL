@@ -35,3 +35,9 @@ Points:
 2. **A topic is a channel that acts as a pipe, where other ROS nodes can either publish or read information.**
 ---
 ## Messages 
+Method of handling information in topics 
+**Commands**
+```
+rosmsg show msg_name
+
+```
